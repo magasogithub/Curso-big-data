@@ -8,3 +8,6 @@ Ejercicios sobre:<br>Pandas <br>SpaceX
 
 # Dia 3
 Ejercicios sobre: <br> Introduccion ML <br> Folium <br>Predecir valor de Netflix <br> 
+
+# Dia 4
+Ejercicios sobre: <br> Machine Learning Predicciones <br> Interacive visual analisis con Folium
