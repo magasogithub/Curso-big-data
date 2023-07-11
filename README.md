@@ -14,3 +14,4 @@ Ejercicios sobre: <br> Machine Learning Predicciones <br> Interacive visual anal
 
 # Semana: Entornos Cloud y Spark
 # Dia 1
+Ejercicios sobre: <br> Repaso de teoria <br> Visualizacion de datos
