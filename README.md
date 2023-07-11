@@ -12,6 +12,9 @@ Ejercicios sobre: <br> Introduccion ML <br> Folium <br>Predecir valor de Netflix
 # Dia 4
 Ejercicios sobre: <br> Machine Learning Predicciones <br> Interacive visual analisis con Folium
 
+# Dia 5
+Ejercicios sobre: <br> Repaso de teoria <br> Visualizacion de datos
+
 # Semana: Entornos Cloud y Spark
 # Dia 1
-Ejercicios sobre: <br> Repaso de teoria <br> Visualizacion de datos
+Ejercicios sobre: <br> Funciones  <br> clases
