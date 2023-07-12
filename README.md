@@ -20,4 +20,4 @@ Ejercicios sobre: <br> Repaso de teoria <br> Visualizacion de datos
 Ejercicios sobre: <br> Funciones  <br> clases
 
 # Dia 2
-ejercicios sobre: <br> Programacion funcional
+Ejercicios sobre: <br> Programacion funcional
