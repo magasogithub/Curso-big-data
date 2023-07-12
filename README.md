@@ -18,3 +18,6 @@ Ejercicios sobre: <br> Repaso de teoria <br> Visualizacion de datos
 # Semana: Entornos Cloud y Spark
 # Dia 1
 Ejercicios sobre: <br> Funciones  <br> clases
+
+# Dia 2
+ejercicios sobre: <br> Programacion funcional
