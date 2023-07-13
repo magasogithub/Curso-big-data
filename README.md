@@ -21,3 +21,6 @@ Ejercicios sobre: <br> Funciones  <br> clases
 
 # Dia 2
 Ejercicios sobre: <br> Programacion funcional
+
+# Dia 3
+Ejercicios sobre: <br> RDD <br> Spark <br> Transformaciones y acciones
